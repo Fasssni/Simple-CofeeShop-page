@@ -3,7 +3,7 @@ function myFunction() {
 }
 console.log(10+10);
 let me="Insaf"
-console.log(`${me} is great programmer!`)
+console.log(`${me} is a great programmer!`)
 let user={
     name:'Insaf',
     surname: 'Sadikov',
